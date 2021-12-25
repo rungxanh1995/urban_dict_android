@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UrbanDictApp</string>
+    <string name="search_a_term">Search a term</string>
+    <string name="search">Search</string>
+    <string name="word">Word</string>
+    <string name="definition">Definition</string>
+    <string name="likes">Likes</string>
+    <string name="definition_detail">Definition Detail</string>
+    <string name="dislikes">Dislikes</string>
+</resources>
